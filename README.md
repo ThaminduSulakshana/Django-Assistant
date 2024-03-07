@@ -9,9 +9,9 @@ Django Assistant is a web application built using Python/Django, JavaScript, and
 - Built with Django for a robust backend.
 
 ## To run Django Assistant locally, follow these steps:
--Install dependencies: pip install -r requirements.txt.
--Apply database migrations: python manage.py migrate.
--Run the development server: python manage.py runserver.
+- Install dependencies: pip install -r requirements.txt.
+- Apply database migrations: python manage.py migrate.
+- Run the development server: python manage.py runserver.
 
 ### Prerequisites
 
